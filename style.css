@@ -169,6 +169,11 @@ ul {
     letter-spacing: 1px;
 }
 
+.nav-logo-img {
+    height: 50px;
+    width: auto;
+}
+
 .logo-sos {
     color: var(--green);
 }
