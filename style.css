@@ -170,7 +170,7 @@ ul {
 }
 
 .nav-logo-img {
-    height: 50px;
+    height: 45px;
     width: auto;
 }
 
@@ -180,6 +180,10 @@ ul {
 
 .logo-acces {
     color: var(--white);
+}
+
+.logo-pro {
+    color: var(--green);
 }
 
 .nav-menu {
