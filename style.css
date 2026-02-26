@@ -170,10 +170,10 @@ ul {
 }
 
 .nav-logo-img {
-    height: clamp(55px, 7vw, 80px);
+    height: clamp(65px, 8vw, 95px);
     width: auto;
-    max-height: 80px;
-    min-height: 55px;
+    max-height: 95px;
+    min-height: 65px;
 }
 
 .logo-sos {
